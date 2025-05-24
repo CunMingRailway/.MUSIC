@@ -32,9 +32,8 @@
 
 ### 安装方法
 
-1. 直接下载 `.MUSIC Pythoncode-Beta 1.py` 文件
-2. 确保已安装所需的 Python 模块
-3. 无需额外安装，直接运行脚本即可
+1. 直接下载 `.MUSIC Pythoncode-Beta 1.zip` 文件
+2. 解压后无需额外安装，直接运行脚本即可
 
 ### 运行方式
 
