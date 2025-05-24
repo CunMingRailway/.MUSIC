@@ -201,7 +201,7 @@ Error: division by zero
 ## 贡献和反馈
 
 如果您发现问题或有改进建议，请通过以下方式反馈：
-- 邮箱：your_email@example.com
+- 邮箱：280184949@qq.com
 - 问题跟踪：请在项目仓库中提交 issue
 
 ## 许可证
